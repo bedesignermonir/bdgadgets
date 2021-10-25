@@ -1,0 +1,21 @@
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.see-all{
+    text-align: right;
+    
+}
+.see-button{
+    border: none;
+    background-color: none;
+    color: yellow;
+}
+.card-image{
+    width: 50%;
+    
+}
