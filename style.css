@@ -8,14 +8,24 @@
 }
 .see-all{
     text-align: right;
+    border: none;
     
 }
 .see-button{
     border: none;
-    background-color: none;
-    color: yellow;
+    background-color: white;
+    color: rgb(255, 123, 0);
 }
 .card-image{
     width: 50%;
     
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
 }
